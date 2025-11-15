@@ -131,5 +131,5 @@ Desenvolvido como projeto do Challenge Conversor de moedas em Java pela Alura.
 
 ---
 
-**Desenvolvido por com ❤️ em Java**
+**Desenvolvido por Ezequiel Alves com ❤️ em Java**
 
